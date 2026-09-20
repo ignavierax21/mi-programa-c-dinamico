@@ -28,6 +28,7 @@ int main() {
 	
 	free(arr);
 	printf("Memoria liberada.\n");
+	printf("Programa finalizado y memoria liberada.\n");
 	
 	return 0;
 }
