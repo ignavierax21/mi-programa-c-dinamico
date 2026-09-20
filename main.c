@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// Agregado un comentario desde GitHub para probar pull
 int main() {
 	int *arr;
 	int n;
